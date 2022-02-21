@@ -1,3 +1,12 @@
+#### Env
+
+Make .env file in the root folder with following variables -
+
+1. PORT=5000
+2. MONGO_URI
+3. JWT_SECRET
+4. JWT_LIFETIME=15d
+
 #### Setup
 
 ```bash
